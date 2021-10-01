@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "MedicalVisitors",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
